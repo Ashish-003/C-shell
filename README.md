@@ -1,4 +1,4 @@
-## C-shell
+# C-shell
 Implementation of Shell in C
 ASSIGNMENT 2
 
@@ -6,7 +6,7 @@ ASSIGNMENT 2
 
 This is shell written in C
 
-# Files and their uses:
+## Files and their uses:
 
 	headers.h:
 		1. It contains all the header files,variabledeclarations,function declarations to be included 
@@ -38,7 +38,7 @@ This is shell written in C
 
 	signals.c  : contains function regarding signals.
 
-# Assumptions made:
+## Assumptions made:
 	1./proc filesystem is accessible as is to any standard linux user.
 	2.Each input has a max length of 10000 and number of semicolon seperated commands is 100.
 	3.Each command has a max length of 99 arguements
