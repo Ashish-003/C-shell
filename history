@@ -1,0 +1,12 @@
+11
+
+jobs
+vim env.c &
+vim ls.c &
+jobs
+emacs
+jobs
+kill 2 
+kill 2 9
+overkill
+cd.. | ls
